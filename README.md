@@ -7,3 +7,4 @@
 
 ## Questions:
 Made the dashboard after understanding the requirements of client.
+![WhatsApp Image 2024-10-14 at 13 24 27](https://github.com/user-attachments/assets/8849c2de-7634-43e5-b884-5031000fcd9e)
